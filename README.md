@@ -8,7 +8,6 @@
   <li>Konfiguracja</li>
   <li>Sposób użytkowania aplikacji klienckiej Chomik</li>
   <li>Podstawowe błędy mogące wystąpić podczas działąnia aplikacji klienckiej Chomik</li>
-  <li>Parser</li>
   </ol></strong>
 
 
